@@ -1,4 +1,4 @@
-# PolygonBrowser - Gestionnaire de polygones
+# Polygon Browser - Gestionnaire de polygones
 
 ![Ecran Principal](https://github.com/OpusTerra/PolygonBrowser/blob/main/PolyGestionPlusScreen.jpg?raw=true)
 

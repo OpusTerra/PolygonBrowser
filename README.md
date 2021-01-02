@@ -20,6 +20,4 @@ Depuis la version 2.80, j'ai ajouté un filtre additionnel et optionnel qui éva
 
 ![Recherche de polygones](https://github.com/OpusTerra/PolygonBrowser/blob/main/PolyGestion_SearchPolygon.jpg?raw=true)
 
-Version 3.20 (Aout 2019):
-
-Nul besoin d'obtenir une clé Google MAP API. L'application utilise maintenant Leaflet.
+Version 3.20 (Aout 2019): Nul besoin d'obtenir une clé Google MAP API. L'application utilise maintenant Leaflet.

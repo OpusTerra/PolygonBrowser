@@ -1,5 +1,7 @@
 # PolygonBrowser - Gestionnaire de polygones
 
+![Ecran Principal](https://github.com/OpusTerra/PolygonBrowser/blob/main/PolyGestionPlusScreen.jpg?raw=true)
+
 C'est assez trivial comme fonctionnement mais laissez-moi vous en dire un peu plus long :D .
 
 Avec la masse de caches actuellement disponibles, la meilleure façon de choisir un ensemble de caches à transférer dans le GPS est sans aucun doute l'utilisation d'un filtre polygonal. On peut toujours se faire plusieurs filtres avec des polygones différents selon les besoins mais à la longue ça commence à faire une bonne liste et c'est pourquoi je me suis bâti une macro spécialement pour gérer les différents polygones selon les voyages et déplacements que je fait.
@@ -16,6 +18,8 @@ Depuis la version 2.80, j'ai ajouté un filtre additionnel et optionnel qui éva
  
  Ajout Version 3.15: En cliquant sur "Recherche Polygone", vous obtiendrez un écran de recherche pour vous aider à trouver les polygones correspondants à un point donné. Pour vous en servir, faites un click souris droit sur un point de la carte et puis cliquer ensuite sur le bouton "Search for Poly". La liste des polygones incluant ce point va ensuite s'afficher. En vous déplaçant dans la liste, les polygones vont se dessiner sur la carte. Vous n'aurez qu'à sélectionner celui qui fait votre affaire.
 
-Ajout Version 3.20 (Aout 2019):
+![Recherche de polygones](https://github.com/OpusTerra/PolygonBrowser/blob/main/PolyGestion_SearchPolygon.jpg?raw=true)
+
+Version 3.20 (Aout 2019):
 
 Nul besoin d'obtenir une clé Google MAP API. L'application utilise maintenant Leaflet.

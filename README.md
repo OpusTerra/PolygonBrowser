@@ -1,4 +1,5 @@
-# PolygonBrowser
+# PolygonBrowser - Gestionnaire de polygones
+
 C'est assez trivial comme fonctionnement mais laissez-moi vous en dire un peu plus long :D .
 
 Avec la masse de caches actuellement disponibles, la meilleure façon de choisir un ensemble de caches à transférer dans le GPS est sans aucun doute l'utilisation d'un filtre polygonal. On peut toujours se faire plusieurs filtres avec des polygones différents selon les besoins mais à la longue ça commence à faire une bonne liste et c'est pourquoi je me suis bâti une macro spécialement pour gérer les différents polygones selon les voyages et déplacements que je fait.
